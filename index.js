@@ -15,6 +15,14 @@ app.get('/chefs', (req, res) => {
     res.send(chefs);
 })
 
+app.get('/chefs/:id', async(req, res) => {
+    
+    const id = req.params.id;
+    const singleChef = await chefs.find(a => a.id == id)
+    res.send(singleChef);
+
+})
+
 app.listen(port, () => {
     console.log(`Chefs-House-Server is Running on PORT: ${port}`);
 })

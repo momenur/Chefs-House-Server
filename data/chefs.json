@@ -1,18 +1,35 @@
 [
     {
         "id": 0,
-        "name": "Ali Hossain",
+        "name": "MIST Ruksana Khatun",
         "experience": "3 Years",
         "photo": "https://t3.ftcdn.net/jpg/04/94/90/68/240_F_494906852_BMrMlMnXnlhwyCvH0mPWFfuINE36enEe.jpg",
         "numberOfRecipes": 10,
         "likes": 570,
-        "view": [
-            {
-                "recipesName": "Bif",
-                "method": "Bif, Some Mosola and oil",
+        "view": {
+            "recipeOne": {
+                "recipesName": "Beef Kala Bhuna",
+                "ima-recipe": "https://img.freepik.com/free-photo/delicious-goulash-ready-dinner_23-2149370900.jpg?size=626&ext=jpg&ga=GA1.2.1517547936.1668862310&semt=robertav1_2_sidr",
+                "ingredients": " oil, meat, salt , red chili powder , turmeric powder, coriander , garlic ginger paste , sliced onion , green chili, mustard oil",
+                "method": "Kala bhuna can be made of both beef and mutton, but beef Kala bhuna is more popular. This meat dish is cooked with various ingredients by adding them gradually.",
                 "rating": "5 Stars"
+            },
+            "recipeTwo": {
+                "recipesName": "Birayani",
+                "ima-recipe": "https://as2.ftcdn.net/v2/jpg/04/90/19/23/1000_F_490192375_qg0In7Wbt4dh5zx18yEazvzPYydN2YOO.jpg",
+                "ingredients": " Rice, oil, meat, salt , red chili powder , turmeric powder, coriander , garlic ginger paste , sliced onion , green chili, mustard oil",
+                "method": "Biriyani can be made of both beef and mutton, but beef Kala bhuna is more popular. This meat dish is cooked with various ingredients by adding them gradually.",
+                "rating": "4.5 Stars"
+            },
+            "recipeThree": {
+                "recipesName": "Payes",
+                "ima-recipe": "https://t3.ftcdn.net/jpg/05/84/14/98/240_F_584149806_aQ0vFFBFo05huD5MeocRaTmiJxUoIkww.jpg",
+                "ingredients": "Milk, Coconut, Suger, Kismis, Nuti, sabudana etc",
+                "method": "Payes can coocked using milk, cocunut, subu, etc.",
+                "rating": "4.3 Stars"
             }
-        ]
+
+        }
     },
     {
         "id": 1,
@@ -21,13 +38,30 @@
         "photo": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=1060&t=st=1683198118~exp=1683198718~hmac=f89549e787b280fbb8b8c7861ae8a5e7a3e8f7e9282706d124a1a679659a0c7c",
         "numberOfRecipes": 9,
         "likes": 1070,
-        "view": 
-            {
-                "recipesName": "Bif",
-                "method": "Bif, Some Mosola and oil",
+        "view": {
+            "recipeOne": {
+                "recipesName": "Beef Kala Bhuna",
+                "ima-recipe": "https://img.freepik.com/free-photo/delicious-goulash-ready-dinner_23-2149370900.jpg?size=626&ext=jpg&ga=GA1.2.1517547936.1668862310&semt=robertav1_2_sidr",
+                "ingredients": " oil, meat, salt , red chili powder , turmeric powder, coriander , garlic ginger paste , sliced onion , green chili, mustard oil",
+                "method": "Kala bhuna can be made of both beef and mutton, but beef Kala bhuna is more popular. This meat dish is cooked with various ingredients by adding them gradually.",
                 "rating": "5 Stars"
+            },
+            "recipeTwo": {
+                "recipesName": "Birayani",
+                "ima-recipe": "https://as2.ftcdn.net/v2/jpg/04/90/19/23/1000_F_490192375_qg0In7Wbt4dh5zx18yEazvzPYydN2YOO.jpg",
+                "ingredients": " Rice, oil, meat, salt , red chili powder , turmeric powder, coriander , garlic ginger paste , sliced onion , green chili, mustard oil",
+                "method": "Biriyani can be made of both beef and mutton, but beef Kala bhuna is more popular. This meat dish is cooked with various ingredients by adding them gradually.",
+                "rating": "4.5 Stars"
+            },
+            "recipeThree": {
+                "recipesName": "Payes",
+                "ima-recipe": "https://t3.ftcdn.net/jpg/05/84/14/98/240_F_584149806_aQ0vFFBFo05huD5MeocRaTmiJxUoIkww.jpg",
+                "ingredients": "Milk, Coconut, Suger, Kismis, Nuti, sabudana etc",
+                "method": "Payes can coocked using milk, cocunut, subu, etc.",
+                "rating": "4.3 Stars"
             }
-        
+
+        }
     },
     {
         "id": 2,
@@ -36,13 +70,30 @@
         "photo": "https://as1.ftcdn.net/v2/jpg/01/09/90/92/1000_F_109909275_mWyVzp8q1JLEc2lydnlH5qYHog5iGQct.jpg",
         "numberOfRecipes": 13,
         "likes": 1570,
-        "view": 
-            {
-                "recipesName": "Bif",
-                "method": "Bif, Some Mosola and oil",
+        "view": {
+            "recipeOne": {
+                "recipesName": "Beef Kala Bhuna",
+                "ima-recipe": "https://img.freepik.com/free-photo/delicious-goulash-ready-dinner_23-2149370900.jpg?size=626&ext=jpg&ga=GA1.2.1517547936.1668862310&semt=robertav1_2_sidr",
+                "ingredients": " oil, meat, salt , red chili powder , turmeric powder, coriander , garlic ginger paste , sliced onion , green chili, mustard oil",
+                "method": "Kala bhuna can be made of both beef and mutton, but beef Kala bhuna is more popular. This meat dish is cooked with various ingredients by adding them gradually.",
                 "rating": "5 Stars"
+            },
+            "recipeTwo": {
+                "recipesName": "Birayani",
+                "ima-recipe": "https://as2.ftcdn.net/v2/jpg/04/90/19/23/1000_F_490192375_qg0In7Wbt4dh5zx18yEazvzPYydN2YOO.jpg",
+                "ingredients": " Rice, oil, meat, salt , red chili powder , turmeric powder, coriander , garlic ginger paste , sliced onion , green chili, mustard oil",
+                "method": "Biriyani can be made of both beef and mutton, but beef Kala bhuna is more popular. This meat dish is cooked with various ingredients by adding them gradually.",
+                "rating": "4.5 Stars"
+            },
+            "recipeThree": {
+                "recipesName": "Payes",
+                "ima-recipe": "https://t3.ftcdn.net/jpg/05/84/14/98/240_F_584149806_aQ0vFFBFo05huD5MeocRaTmiJxUoIkww.jpg",
+                "ingredients": "Milk, Coconut, Suger, Kismis, Nuti, sabudana etc",
+                "method": "Payes can coocked using milk, cocunut, subu, etc.",
+                "rating": "4.3 Stars"
             }
-        
+
+        }
     },
     {
         "id": 3,
@@ -51,13 +102,30 @@
         "photo": "https://as1.ftcdn.net/v2/jpg/01/06/20/40/1000_F_106204059_lleqNc7r5xqH4g0Ksm8xSwUr5bh3NiJy.jpg",
         "numberOfRecipes": 30,
         "likes": 3570,
-        "view": 
-            {
-                "recipesName": "Bif",
-                "method": "Bif, Some Mosola and oil",
+        "view": {
+            "recipeOne": {
+                "recipesName": "Beef Kala Bhuna",
+                "ima-recipe": "https://img.freepik.com/free-photo/delicious-goulash-ready-dinner_23-2149370900.jpg?size=626&ext=jpg&ga=GA1.2.1517547936.1668862310&semt=robertav1_2_sidr",
+                "ingredients": " oil, meat, salt , red chili powder , turmeric powder, coriander , garlic ginger paste , sliced onion , green chili, mustard oil",
+                "method": "Kala bhuna can be made of both beef and mutton, but beef Kala bhuna is more popular. This meat dish is cooked with various ingredients by adding them gradually.",
                 "rating": "5 Stars"
+            },
+            "recipeTwo": {
+                "recipesName": "Birayani",
+                "ima-recipe": "https://as2.ftcdn.net/v2/jpg/04/90/19/23/1000_F_490192375_qg0In7Wbt4dh5zx18yEazvzPYydN2YOO.jpg",
+                "ingredients": " Rice, oil, meat, salt , red chili powder , turmeric powder, coriander , garlic ginger paste , sliced onion , green chili, mustard oil",
+                "method": "Biriyani can be made of both beef and mutton, but beef Kala bhuna is more popular. This meat dish is cooked with various ingredients by adding them gradually.",
+                "rating": "4.5 Stars"
+            },
+            "recipeThree": {
+                "recipesName": "Payes",
+                "ima-recipe": "https://t3.ftcdn.net/jpg/05/84/14/98/240_F_584149806_aQ0vFFBFo05huD5MeocRaTmiJxUoIkww.jpg",
+                "ingredients": "Milk, Coconut, Suger, Kismis, Nuti, sabudana etc",
+                "method": "Payes can coocked using milk, cocunut, subu, etc.",
+                "rating": "4.3 Stars"
             }
-        
+
+        }
     },
     {
         "id": 4,
@@ -66,13 +134,30 @@
         "photo": "https://t4.ftcdn.net/jpg/02/75/08/67/240_F_275086757_IOm8iBG3AB0qFje2d0VsjhZo6U3mNXQW.jpg",
         "numberOfRecipes": 3,
         "likes": 2570,
-        "view": 
-            {
-                "recipesName": "Bif",
-                "method": "Bif, Some Mosola and oil",
+        "view": {
+            "recipeOne": {
+                "recipesName": "Beef Kala Bhuna",
+                "ima-recipe": "https://img.freepik.com/free-photo/delicious-goulash-ready-dinner_23-2149370900.jpg?size=626&ext=jpg&ga=GA1.2.1517547936.1668862310&semt=robertav1_2_sidr",
+                "ingredients": " oil, meat, salt , red chili powder , turmeric powder, coriander , garlic ginger paste , sliced onion , green chili, mustard oil",
+                "method": "Kala bhuna can be made of both beef and mutton, but beef Kala bhuna is more popular. This meat dish is cooked with various ingredients by adding them gradually.",
                 "rating": "5 Stars"
+            },
+            "recipeTwo": {
+                "recipesName": "Birayani",
+                "ima-recipe": "https://as2.ftcdn.net/v2/jpg/04/90/19/23/1000_F_490192375_qg0In7Wbt4dh5zx18yEazvzPYydN2YOO.jpg",
+                "ingredients": " Rice, oil, meat, salt , red chili powder , turmeric powder, coriander , garlic ginger paste , sliced onion , green chili, mustard oil",
+                "method": "Biriyani can be made of both beef and mutton, but beef Kala bhuna is more popular. This meat dish is cooked with various ingredients by adding them gradually.",
+                "rating": "4.5 Stars"
+            },
+            "recipeThree": {
+                "recipesName": "Payes",
+                "ima-recipe": "https://t3.ftcdn.net/jpg/05/84/14/98/240_F_584149806_aQ0vFFBFo05huD5MeocRaTmiJxUoIkww.jpg",
+                "ingredients": "Milk, Coconut, Suger, Kismis, Nuti, sabudana etc",
+                "method": "Payes can coocked using milk, cocunut, subu, etc.",
+                "rating": "4.3 Stars"
             }
-        
+
+        }
     },
     {
         "id": 5,
@@ -81,12 +166,29 @@
         "photo": "https://t3.ftcdn.net/jpg/03/35/63/86/240_F_335638623_SkUiPT8btwia2G437NGHZXxGJ294BJwU.jpg",
         "numberOfRecipes": 10,
         "likes": 3570,
-        "view": 
-            {
-                "recipesName": "Bif",
-                "method": "Bif, Some Mosola and oil",
+        "view": {
+            "recipeOne": {
+                "recipesName": "Beef Kala Bhuna",
+                "ima-recipe": "https://img.freepik.com/free-photo/delicious-goulash-ready-dinner_23-2149370900.jpg?size=626&ext=jpg&ga=GA1.2.1517547936.1668862310&semt=robertav1_2_sidr",
+                "ingredients": " oil, meat, salt , red chili powder , turmeric powder, coriander , garlic ginger paste , sliced onion , green chili, mustard oil",
+                "method": "Kala bhuna can be made of both beef and mutton, but beef Kala bhuna is more popular. This meat dish is cooked with various ingredients by adding them gradually.",
                 "rating": "5 Stars"
+            },
+            "recipeTwo": {
+                "recipesName": "Birayani",
+                "ima-recipe": "https://as2.ftcdn.net/v2/jpg/04/90/19/23/1000_F_490192375_qg0In7Wbt4dh5zx18yEazvzPYydN2YOO.jpg",
+                "ingredients": " Rice, oil, meat, salt , red chili powder , turmeric powder, coriander , garlic ginger paste , sliced onion , green chili, mustard oil",
+                "method": "Biriyani can be made of both beef and mutton, but beef Kala bhuna is more popular. This meat dish is cooked with various ingredients by adding them gradually.",
+                "rating": "4.5 Stars"
+            },
+            "recipeThree": {
+                "recipesName": "Payes",
+                "ima-recipe": "https://t3.ftcdn.net/jpg/05/84/14/98/240_F_584149806_aQ0vFFBFo05huD5MeocRaTmiJxUoIkww.jpg",
+                "ingredients": "Milk, Coconut, Suger, Kismis, Nuti, sabudana etc",
+                "method": "Payes can coocked using milk, cocunut, subu, etc.",
+                "rating": "4.3 Stars"
             }
-        
+
+        }
     }
 ]
